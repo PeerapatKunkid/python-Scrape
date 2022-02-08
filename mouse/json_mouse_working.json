@@ -1,0 +1,532 @@
+[
+  {
+    "model": "w226",
+    "name": "ANITECH BLUETOOTH AND WIRELESS MOUSE W226",
+    "store": "Banana",
+    "brand": "Anitech",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "ANITECH BLUETOOTH AND WIRELESS MOUSE W226 BLUE",
+        "price": 379,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/anitech-bluetooth-and-wireless-mouse-w226-blue-8859221716908_zvl72p",
+        "image": "https://media-cdn.bnn.in.th/85159/Anitech-W226-Blue-3-square_medium.jpg",
+        "spec": {
+          "interface": "USB",
+          "sensor": "N/A",
+          "macro": "",
+          "dpi": "up to 1600 dpi",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "a545",
+    "name": "ANITECH WIRED MOUSE A545",
+    "store": "Banana",
+    "brand": "Anitech",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "ANITECH WIRED MOUSE A545",
+        "price": 139,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/anitech-wired-mouse-a545-8859221708439_d828yy",
+        "image": "https://media-cdn.bnn.in.th/84391/8859221708439-1-square_medium.jpg",
+        "spec": {
+          "interface": "USB",
+          "sensor": "Optical",
+          "macro": "",
+          "dpi": "800-1200-1600 DPI",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  null,
+  {
+    "model": "w213",
+    "name": "ANITECH WIRELESS MOUSE W213",
+    "store": "Banana",
+    "brand": "Anitech",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "ANITECH WIRELESS MOUSE W213 WHITE",
+        "price": 219,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/anitech-wireless-mouse-w213-white-8859221705568_dko16q",
+        "image": "https://media-cdn.bnn.in.th/84222/8859221705568-01-square_medium.jpg",
+        "spec": {
+          "interface": "USB interface",
+          "sensor": "Dual HD Optical Techology",
+          "macro": "",
+          "dpi": "Resolution up to 1600 dpl",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "w214",
+    "name": "ANITECH WIRELESS MOUSE W214",
+    "store": "Banana",
+    "brand": "Anitech",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "ANITECH WIRELESS MOUSE W214 GRAY",
+        "price": 239,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/anitech-wireless-mouse-w214-gray-8859221707579_zjgn68",
+        "image": "https://media-cdn.bnn.in.th/84329/8859221707579-01-square_medium.jpg",
+        "spec": {
+          "interface": "USB",
+          "sensor": "Dual HD optical techology",
+          "macro": "",
+          "dpi": "800/1200/1600 dpi",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "w219",
+    "name": "ANITECH WIRELESS MOUSE W219",
+    "store": "Banana",
+    "brand": "Anitech",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "ANITECH WIRELESS MOUSE W219 BLACK",
+        "price": 279,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/anitech-wireless-mouse-w219-black-8859221709030_dllnxm",
+        "image": "https://media-cdn.bnn.in.th/84493/8859221709030-1-square_medium.jpg",
+        "spec": {
+          "interface": "USB",
+          "sensor": "optical mouse",
+          "macro": "",
+          "dpi": "800/1000/1600 DPI",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "w221",
+    "name": "ANITECH WIRELESS MOUSE",
+    "store": "Banana",
+    "brand": "Anitech",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "ANITECH WIRELESS MOUSE W221 BLUE",
+        "price": 259,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/anitech-wireless-mouse-w221-blue-8859221709245_r02qn6",
+        "image": "https://media-cdn.bnn.in.th/84530/8859221709245-3-square_medium.jpg",
+        "spec": {
+          "interface": "USB",
+          "sensor": "optical mouse",
+          "macro": "",
+          "dpi": "1200 DPI",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "w224",
+    "name": "ANITECH WIRELESS MOUSE W224",
+    "store": "Banana",
+    "brand": "Anitech",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "ANITECH WIRELESS MOUSE W224 BLACK",
+        "price": 199,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/anitech-wireless-mouse-w224-black-8859221716878_rq8j2o",
+        "image": "https://media-cdn.bnn.in.th/85141/Mouse-W224-Black-3-square_medium.jpg",
+        "spec": {
+          "interface": "USB",
+          "sensor": "N/A",
+          "macro": "",
+          "dpi": "1000 dpi",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "w225",
+    "name": "ANITECH WIRELESS VERTICAL MOUSE W225",
+    "store": "Banana",
+    "brand": "Anitech",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "ANITECH WIRELESS VERTICAL MOUSE W225 BLACK",
+        "price": 399,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/anitech-wireless-vertical-mouse-w225-black-8859221716861_z78w86",
+        "image": "https://media-cdn.bnn.in.th/106934/Anitech-Wireless-Vertical-Mouse-W225-Black-6-square_medium.jpg",
+        "spec": {
+          "interface": "USB",
+          "sensor": "N/A",
+          "macro": "",
+          "dpi": "N/A",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "g640s",
+    "name": "CS@ XP-PEN MOUSE PEN G640S",
+    "store": "Banana",
+    "brand": "Xp-pen",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "CS@ XP-PEN MOUSE PEN G640S",
+        "price": 1790,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/cs-at-xp-pen-mouse-pen-g640s-654913039154_dyqx8z",
+        "image": "https://media-cdn.bnn.in.th/45205/XP-PEN-Mouse-Pen-G640S-6-square_medium.jpg",
+        "spec": {
+          "interface": "",
+          "sensor": "",
+          "macro": "",
+          "dpi": "",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "nx7005",
+    "name": "GENIUS WIRELESS MOUSE NX-7005",
+    "store": "Banana",
+    "brand": "Genius",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "GENIUS WIRELESS MOUSE NX-7005 BLACK",
+        "price": 229,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/genius-wireless-mouse-nx-7005-black-4710268251040_zjn98r",
+        "image": "https://media-cdn.bnn.in.th/17392/4710268251040-01-square_medium.jpg",
+        "spec": {
+          "interface": "USB",
+          "sensor": "BlueEye",
+          "macro": "",
+          "dpi": "1000 DPI",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "nx7015",
+    "name": "GENIUS WIRELESS MOUSE NX-7015",
+    "store": "Banana",
+    "brand": "Genius",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "GENIUS WIRELESS MOUSE NX-7015 CHOCOLATE",
+        "price": 279,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/genius-wireless-mouse-nx-7015-chocolate-4710268250951_dyxgvr",
+        "image": "https://media-cdn.bnn.in.th/17390/Genius-Wireless-Mouse-NX-7015-Chocolate-02-square_medium.jpg",
+        "spec": {
+          "interface": "USB",
+          "sensor": "BlueEye",
+          "macro": "",
+          "dpi": "1200 DPI",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "silent600",
+    "name": "LENOVO BLUETOOTH MOUSE SILENT 600 (EO)",
+    "store": "Banana",
+    "brand": "Lenovo",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LENOVO BLUETOOTH MOUSE SILENT 600 (EO)",
+        "price": 790,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/lenovo-bluetooth-mouse-silent-600-eo-194632482072_zp51ww",
+        "image": "https://media-cdn.bnn.in.th/138286/Mouse-Silent-600-01-square_medium.jpg",
+        "spec": {
+          "interface": "Bluetooth",
+          "sensor": "Blue optical sensor",
+          "macro": "",
+          "dpi": "3-level adjustable DPI (2400, 1600, 800)",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "mouse530",
+    "name": "LENOVO WIRELESS MOUSE 530 (EO)",
+    "store": "Banana",
+    "brand": "Lenovo",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LENOVO WIRELESS MOUSE 530 CHERRY RED (EO)",
+        "price": 490,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/lenovo-wireless-mouse-530-cherry-red-eo-195042086287_d11jkq",
+        "image": "https://media-cdn.bnn.in.th/138362/Cherry-Red-01-square_medium.jpg",
+        "spec": {
+          "interface": "Wireless 2.4 Ghz.",
+          "sensor": "N/A",
+          "macro": "",
+          "dpi": "1200 dpi",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "m350",
+    "name": "LOGITECH BLUETOOTH & WIRELESS MOUSE M350 PEBBLE",
+    "store": "Banana",
+    "brand": "Logitech",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LOGITECH BLUETOOTH & WIRELESS MOUSE M350 PEBBLE GRAPHITE",
+        "price": 690,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/logitech-bluetooth-wireless-mouse-m350-pebble-graphite-097855150929_dm00nr",
+        "image": "https://media-cdn.bnn.in.th/4894/Logitech-Wireless-Mouse-Pebble-M350-Graphite-1-square_medium.jpg",
+        "spec": {
+          "interface": "N/A",
+          "sensor": "High Precision Optical Tracking",
+          "macro": "",
+          "dpi": "1000 DPI",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "m350",
+    "name": "LOGITECH BLUETOOTH & WIRELESS MOUSE M350 PEBBLE",
+    "store": "Banana",
+    "brand": "Logitech",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LOGITECH BLUETOOTH & WIRELESS MOUSE M350 PEBBLE OFFWHITE",
+        "price": 690,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/logitech-bluetooth-wireless-mouse-m350-pebble-offwhite-097855150905_rq887r",
+        "image": "https://media-cdn.bnn.in.th/4886/Logitech-Wireless-Mouse-Pebble-M350-Offwhite-1-square_medium.jpg",
+        "spec": {
+          "interface": "N/A",
+          "sensor": "High Precision Optical Tracking",
+          "macro": "",
+          "dpi": "1000 DPI",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "m350",
+    "name": "LOGITECH BLUETOOTH & WIRELESS MOUSE M350 PEBBLE",
+    "store": "Banana",
+    "brand": "Logitech",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LOGITECH BLUETOOTH & WIRELESS MOUSE M350 PEBBLE ROSE",
+        "price": 690,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/logitech-bluetooth-wireless-mouse-m350-pebble-rose-097855150912_d822kd",
+        "image": "https://media-cdn.bnn.in.th/4890/Logitech-Wireless-Mouse-Pebble-M350-Rose-1-square_medium.jpg",
+        "spec": {
+          "interface": "N/A",
+          "sensor": "High Precision Optical Tracking",
+          "macro": "",
+          "dpi": "1000 DPI",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "m590",
+    "name": "LOGITECH BLUETOOTH & WIRELESS MOUSE M590 MULTI DEVICE SILENT GRAPHITE",
+    "store": "Banana",
+    "brand": "Logitech",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LOGITECH BLUETOOTH & WIRELESS MOUSE M590 MULTI DEVICE SILENT GRAPHITE",
+        "price": 990,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/logitech-bluetooth-wireless-mouse-m590-multi-device-silent-graphite-097855131362_qzv84r",
+        "image": "https://media-cdn.bnn.in.th/4703/97855131362-01-square_medium.jpg",
+        "spec": {
+          "interface": "USB Unifying",
+          "sensor": "Logitech Advanced Optical Tracking",
+          "macro": "",
+          "dpi": "1000 dpi",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "m100r",
+    "name": "LOGITECH WIRED MOUSE M100R USB",
+    "store": "Banana",
+    "brand": "Logitech",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LOGITECH WIRED MOUSE M100R USB",
+        "price": 169,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/logitech-wired-mouse-m100r-usb-097855128294_ydl0nd",
+        "image": "https://media-cdn.bnn.in.th/4623/097855128294-2-square_medium.jpg",
+        "spec": {
+          "interface": "USB 2.0",
+          "sensor": "Optical Mouse",
+          "macro": "",
+          "dpi": "1000 dpi",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "m190",
+    "name": "LOGITECH WIRELESS MOUSE FULL-SIZE M190",
+    "store": "Banana",
+    "brand": "Logitech",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LOGITECH WIRELESS MOUSE FULL-SIZE M190 BLUE",
+        "price": 409,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/logitech-wireless-mouse-full-size-m190-blue-097855159991_zvlekd",
+        "image": "https://media-cdn.bnn.in.th/4973/Logitech-Wireless-Mouse-Full-Size-M190-Blue-05-square_medium.jpg",
+        "spec": {
+          "interface": "Plastic and Rubber",
+          "sensor": "Logitech Advanced Optical Tracking",
+          "macro": "",
+          "dpi": "1000 DPI",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "m190",
+    "name": "LOGITECH WIRELESS MOUSE FULL-SIZE M190",
+    "store": "Banana",
+    "brand": "Logitech",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LOGITECH WIRELESS MOUSE FULL-SIZE M190 CHARCOAL",
+        "price": 409,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/logitech-wireless-mouse-full-size-m190-charcoal-097855159984_dm0qnr",
+        "image": "https://media-cdn.bnn.in.th/4965/Logitech-Wireless-Mouse-Full-Size-M190-Charcoal-1-square_medium.jpg",
+        "spec": {
+          "interface": "Plastic and Rubber",
+          "sensor": "Logitech Advanced Optical Tracking",
+          "macro": "",
+          "dpi": "1000 DPI",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "m190",
+    "name": "LOGITECH WIRELESS MOUSE FULL-SIZE M190",
+    "store": "Banana",
+    "brand": "Logitech",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LOGITECH WIRELESS MOUSE FULL-SIZE M190 RED",
+        "price": 409,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/logitech-wireless-mouse-full-size-m190-red-097855160003_dkoeqz",
+        "image": "https://media-cdn.bnn.in.th/4978/Logitech-Wireless-Mouse-Full-Size-M190-05-square_medium.jpg",
+        "spec": {
+          "interface": "Plastic and Rubber",
+          "sensor": "Logitech Advanced Optical Tracking",
+          "macro": "",
+          "dpi": "1000 DPI",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "m171",
+    "name": "LOGITECH WIRELESS MOUSE M171",
+    "store": "Banana",
+    "brand": "Logitech",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LOGITECH WIRELESS MOUSE M171 BLUE",
+        "price": 370,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/logitech-wireless-mouse-m171-blue-097855119230_qz7ywz",
+        "image": "https://media-cdn.bnn.in.th/4560/97855119230-02-square_medium.jpg",
+        "spec": {
+          "interface": "USB receiver",
+          "sensor": "Advance Optical Mouse Technology",
+          "macro": "",
+          "dpi": "1000 dpi",
+          "switch_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "m171",
+    "name": "LOGITECH WIRELESS MOUSE M171",
+    "store": "Banana",
+    "brand": "Logitech",
+    "category": "Mouse",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LOGITECH WIRELESS MOUSE M171 GRAY",
+        "price": 370,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/mouse-1/logitech-wireless-mouse-m171-gray-097855119223_yzwjwd",
+        "image": "https://media-cdn.bnn.in.th/4555/97855119223-01-square_medium.jpg",
+        "spec": {
+          "interface": "USB receiver",
+          "sensor": "Advance Optical Mouse Technology",
+          "macro": "",
+          "dpi": "1000 DPI",
+          "switch_type": ""
+        }
+      }
+    ]
+  }
+]

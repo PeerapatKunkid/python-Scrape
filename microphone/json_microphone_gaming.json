@@ -1,0 +1,200 @@
+[
+  {
+    "model": "solocast",
+    "name": "HYPER X GAMING MICROPHONE SOLOCAST",
+    "store": "Banana",
+    "brand": "Hyper x",
+    "category": "Microphone",
+    "tag": "Gaming",
+    "data": [
+      {
+        "name": "HYPER X GAMING MICROPHONE SOLOCAST USB",
+        "price": 1990,
+        "href": "https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/hyper-x-gaming-microphone-solocast-usb-740617301663_zoo00z",
+        "image": "https://media-cdn.bnn.in.th/54333/Solocast-USB-7-square_medium.jpg",
+        "spec": {
+          "interface": "USB 2.0",
+          "type_of": "",
+          "frequency": "20Hz - 20kHz",
+          "impedance": "N/A"
+        }
+      }
+    ]
+  },
+  {
+    "model": "m66",
+    "name": "NUBWO M66 MICROPHONE",
+    "store": "Banana",
+    "brand": "Nubwo",
+    "category": "Microphone",
+    "tag": "Gaming",
+    "data": [
+      {
+        "name": "NUBWO STREAMING MICROPHONE CONDENSER M-66 BLACK",
+        "price": 249,
+        "href": "https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/nubwo-streaming-microphone-condenser-m-66-black-791411133004_d5jvxr",
+        "image": "https://media-cdn.bnn.in.th/58354/Nubwo-Streaming-Microphone-Condenser-M-66-Black-4-square_medium.jpg",
+        "spec": {
+          "interface": "",
+          "type_of": "",
+          "frequency": "",
+          "impedance": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "m14",
+    "name": "NUBWO M14 LAVALIER MICROPHONE",
+    "store": "Banana",
+    "brand": "Nubwo",
+    "category": "Microphone",
+    "tag": "Gaming",
+    "data": [
+      {
+        "name": "NUBWO STREAMING MICROPHONE LAVALIER M-14",
+        "price": 420,
+        "href": "https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/nubwo-streaming-microphone-lavalier-m-14-791421131403_r069mr",
+        "image": "https://media-cdn.bnn.in.th/58378/Nubwo-Streaming-Microphone-Lavalier-M-14-1-square_medium.jpg",
+        "spec": {
+          "interface": "",
+          "type_of": "",
+          "frequency": "",
+          "impedance": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "m21",
+    "name": "NUBWO M21 MICROPHONE",
+    "store": "Banana",
+    "brand": "Nubwo",
+    "category": "Microphone",
+    "tag": "Gaming",
+    "data": [
+      {
+        "name": "NUBWO STREAMING MICROPHONE M-21 GOLD/BLACK",
+        "price": 520,
+        "href": "https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/nubwo-streaming-microphone-m-21-goldblack-791423132101_zp74pz",
+        "image": "https://media-cdn.bnn.in.th/58382/Nubwo-Streaming-Microphone-M-21-Gold-Black-1-square_medium.jpg",
+        "spec": {
+          "interface": "",
+          "type_of": "",
+          "frequency": "",
+          "impedance": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "x500",
+    "name": "NUBWO STREAMING MICROPHONE X500",
+    "store": "Banana",
+    "brand": "Nubwo",
+    "category": "Microphone",
+    "tag": "Gaming",
+    "data": [
+      {
+        "name": "NUBWO STREAMING MICROPHONE X500 VADER",
+        "price": 590,
+        "href": "https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/nubwo-streaming-microphone-x500-vader-791414245001_dny2er",
+        "image": "https://media-cdn.bnn.in.th/58377/Nubwo-Streaming-Microphone-X500-Vader-5-square_medium.jpg",
+        "spec": {
+          "interface": "",
+          "type_of": "",
+          "frequency": "",
+          "impedance": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "mp705",
+    "name": "SIGNO CONDENSER MICROPHONE MAXXON MP-705",
+    "store": "Banana",
+    "brand": "Signo",
+    "category": "Microphone",
+    "tag": "Gaming",
+    "data": [
+      {
+        "name": "SIGNO CONDENSER MICROPHONE MAXXON MP-705 BLACK",
+        "price": 1390,
+        "href": "https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/signo-condenser-microphone-maxxon-mp-705-black-6830295531262_dy65w2",
+        "image": "https://media-cdn.bnn.in.th/134389/Signo-Condenser-Microphone-Maxxon-MP-705-Black-02-square_medium.jpg",
+        "spec": {
+          "interface": "",
+          "type_of": "",
+          "frequency": "",
+          "impedance": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "mp701",
+    "name": "SIGNO GAMING ACC CONDENSER MICROPHONE MP-701",
+    "store": "Banana",
+    "brand": "Signo",
+    "category": "Microphone",
+    "tag": "Gaming",
+    "data": [
+      {
+        "name": "SIGNO GAMING ACC CONDENSER MICROPHONE MP-701 BLACK",
+        "price": 590,
+        "href": "https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/signo-gaming-acc-condenser-microphone-mp-701-black-6720395493266_dmvexd",
+        "image": "https://media-cdn.bnn.in.th/45878/Signo-Gaming-Acc-Condenser-Microphone-MP-701-Black-03-square_medium.jpg",
+        "spec": {
+          "interface": "3ma",
+          "type_of": "",
+          "frequency": "20hz-20khz",
+          "impedance": "150 ohm +/-30"
+        }
+      }
+    ]
+  },
+  {
+    "model": "mp704",
+    "name": "SIGNO GAMING ACC CONDENSER MICROPHONE MP-704",
+    "store": "Banana",
+    "brand": "Signo",
+    "category": "Microphone",
+    "tag": "Gaming",
+    "data": [
+      {
+        "name": "SIGNO GAMING ACC CONDENSER MICROPHONE MP-704 BLACK",
+        "price": 765,
+        "href": "https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/signo-gaming-acc-condenser-microphone-mp-704-black-6703124825644_d8o4qz",
+        "image": "https://media-cdn.bnn.in.th/45873/6703124825644-Signo-Condenser-Microphone-MP-704-black-04-square_medium.jpg",
+        "spec": {
+          "interface": "",
+          "type_of": "",
+          "frequency": "",
+          "impedance": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "mp702",
+    "name": "SIGNO GAMING DESKTOP MICROPHONE MP-702",
+    "store": "Banana",
+    "brand": "Signo",
+    "category": "Microphone",
+    "tag": "Gaming",
+    "data": [
+      {
+        "name": "SIGNO GAMING DESKTOP MICROPHONE MP-702 BLACK",
+        "price": 441,
+        "href": "https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/signo-gaming-desktop-microphone-mp-702-black-6771840306846_z3xn6z",
+        "image": "https://media-cdn.bnn.in.th/45892/Signo-Gaming-Desktop-Microphone-MP-702-Black-01-square_medium.jpg",
+        "spec": {
+          "interface": "",
+          "type_of": "",
+          "frequency": "",
+          "impedance": ""
+        }
+      }
+    ]
+  }
+]

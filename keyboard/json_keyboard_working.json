@@ -1,0 +1,532 @@
+[
+  {
+    "model": "n181",
+    "name": "ANITECH KEYPAD RETRACTABLE WIRELESS N181",
+    "store": "Banana",
+    "brand": "Anitech",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "ANITECH KEYPAD RETRACTABLE WIRELESS N181 BLACK",
+        "price": 399,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/anitech-keypad-retractable-wireless-n181-black-8859221703854_d51993",
+        "image": "https://media-cdn.bnn.in.th/84120/8859221703854-1-square_medium.jpg",
+        "spec": {
+          "interface": "USB Wireless",
+          "switch": "",
+          "layout": "",
+          "dimension": "",
+          "support": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "p202",
+    "name": "ANITECH WIRED KEYBOARD",
+    "store": "Banana",
+    "brand": "Anitech",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "ANITECH WIRED KEYBOARD P202 (TH/EN)",
+        "price": 169,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/keyboard-and-numpad/anitech-wired-keyboard-p202-then-8859221708507_dm0n4e",
+        "image": "https://media-cdn.bnn.in.th/84410/8859221708507-4-square_medium.jpg",
+        "spec": {
+          "interface": "USB Port",
+          "switch": "",
+          "layout": "",
+          "dimension": "14 x 44 x 2.3 cm.",
+          "support": "Windows : 7 / 8 / 10 and MAC OS X"
+        }
+      }
+    ]
+  },
+  {
+    "model": "k5",
+    "name": "USB KEYBOARD MD-TECH (K-5)",
+    "store": "Banana",
+    "brand": "Logitech",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LOGITECH BLUETOOTH AND WIRELESS KEYBOARD MULTI-DEVICE K580 SLIM OFF WHITE (EN)",
+        "price": 1490,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/keyboard-and-numpad/logitech-bluetooth-and-wireless-keyboard-multi-device-k580-slim-off-white-en-097855152237_d5113r",
+        "image": "https://media-cdn.bnn.in.th/4916/Logitech-Bluetooth-6-square_medium.jpg",
+        "spec": {
+          "interface": "Blutooth and Wireless",
+          "switch": "",
+          "layout": "",
+          "dimension": "37.35 x 14.39 x 2.13 cm.",
+          "support": "Windows 7 and above, macOS 10.11 and above, Linux,1 Android 6 or late"
+        }
+      }
+    ]
+  },
+  {
+    "model": "k5",
+    "name": "USB KEYBOARD MD-TECH (K-5)",
+    "store": "Banana",
+    "brand": "Logitech",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LOGITECH BLUETOOTH AND WIRELESS KEYBOARD MULTI-DEVICE K580 SLIM GRAPHITE (EN)",
+        "price": 1490,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/keyboard-and-numpad/logitech-bluetooth-and-wireless-keyboard-multi-device-k580-slim-graphite-en-097855152220_zjgg8z",
+        "image": "https://media-cdn.bnn.in.th/4910/Logitech-Bluetooth-4-square_medium.jpg",
+        "spec": {
+          "interface": "Blutooth and Wireless",
+          "switch": "",
+          "layout": "",
+          "dimension": "37.35 x 14.39 x 2.13 cm.",
+          "support": "Windows 7 and above, macOS 10.11 and above, Linux,1 Android 6 or late"
+        }
+      }
+    ]
+  },
+  {
+    "model": "k380",
+    "name": "LOGITECH K380 MULTI-DEVICE",
+    "store": "Banana",
+    "brand": "Logitech",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LOGITECH BLUETOOTH KEYBOARD MULTI-DEVICE K380 BLACK (EN)",
+        "price": 1050,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/keyboard-and-numpad/logitech-bluetooth-keyboard-multi-device-k380-black-en-097855117717_vzj4vz",
+        "image": "https://media-cdn.bnn.in.th/4549/97855117717-555-square_medium.jpg",
+        "spec": {
+          "interface": "Bluetooth",
+          "switch": "",
+          "layout": "",
+          "dimension": "27.90 x 1.60 x 12.40 cm.",
+          "support": "Windows 7, Windows 8, Windows 10 or later , Mac: Mac OS 10.10 or later"
+        }
+      }
+    ]
+  },
+  {
+    "model": "k380",
+    "name": "LOGITECH K380 MULTI-DEVICE",
+    "store": "Banana",
+    "brand": "Logitech",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LOGITECH BLUETOOTH KEYBOARD MULTI-DEVICE K380 BLUE (EN)",
+        "price": 1050,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/keyboard-and-numpad/logitech-bluetooth-keyboard-multi-device-k380-blue-en-097855117724_xd5lxz",
+        "image": "https://media-cdn.bnn.in.th/4554/97855117724-0005-square_medium.jpg",
+        "spec": {
+          "interface": "Bluetooth Wireless",
+          "switch": "",
+          "layout": "",
+          "dimension": "27.90 x 1.60 x 12.40 cm.",
+          "support": "Windows 7, Windows 8, Windows 10 or higher / Mac OS 10.10 or higher / Chrome OS"
+        }
+      }
+    ]
+  },
+  {
+    "model": "k480",
+    "name": "BLUETOOTH KEYBOARD MULTI-DEVICE LOGITECH K480 ",
+    "store": "Banana",
+    "brand": "Logitech",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LOGITECH BLUETOOTH KEYBOARD MULTI-DEVICE K480 BLACK (TH/EN)",
+        "price": 1350,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/keyboard-and-numpad/logitech-bluetooth-keyboard-multi-device-k480-black-then-097855115423_ydl9nd",
+        "image": "https://media-cdn.bnn.in.th/4535/97855115423-0006-square_medium.jpg",
+        "spec": {
+          "interface": "Bluetooth",
+          "switch": "",
+          "layout": "",
+          "dimension": "29.9 x 2.0 x 19.5 cm.",
+          "support": "Windows 7, Windows 8, Windows 10, Mac OS X or later, Chrome OS"
+        }
+      }
+    ]
+  },
+  {
+    "model": "k480",
+    "name": "BLUETOOTH KEYBOARD MULTI-DEVICE LOGITECH K480 ",
+    "store": "Banana",
+    "brand": "Logitech",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LOGITECH BLUETOOTH KEYBOARD MULTI-DEVICE K480 WHITE (TH/EN)",
+        "price": 1350,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/keyboard-and-numpad/logitech-bluetooth-keyboard-multi-device-k480-white-then-097855115430_gz3k6d",
+        "image": "https://media-cdn.bnn.in.th/4541/97855115430-666-square_medium.jpg",
+        "spec": {
+          "interface": "Bluetooth wireless",
+          "switch": "",
+          "layout": "",
+          "dimension": "29.9 x 2.0 x 19.5 cm.",
+          "support": "Windows 7, Windows 8, Windows 10, Mac OS X or later, Chrome OS"
+        }
+      }
+    ]
+  },
+  {
+    "model": "k120",
+    "name": "HP GAMING K120",
+    "store": "Banana",
+    "brand": "Logitech",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LOGITECH WIRED KEYBOARD USB K120 (TH/EN)",
+        "price": 259,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/keyboard-and-numpad/logitech-wired-keyboard-usb-k120-then-097855067128_pdm1ld",
+        "image": "https://media-cdn.bnn.in.th/4402/9785506712-0001-square_medium.jpg",
+        "spec": {
+          "interface": "USB Compatible",
+          "switch": "",
+          "layout": "",
+          "dimension": "45 x 15.5 x 2.3 cm.",
+          "support": "Windows XP, Windows Vista or Windows 7, Linux kernel 2.6+"
+        }
+      }
+    ]
+  },
+  {
+    "model": "k375s",
+    "name": "USB WIRELESS/BLUETOOTH LOGITECH (K375S)",
+    "store": "Banana",
+    "brand": "Logitech",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "LOGITECH WIRELESS KEYBOARD + STAND MULTI-DEVICE K375S (TH/EN)",
+        "price": 790,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/keyboard-and-numpad/logitech-wireless-keyboard-stand-multi-device-k375s-then-097855125484_yzwxwr",
+        "image": "https://media-cdn.bnn.in.th/4648/097855125484-2-square_medium.jpg",
+        "spec": {
+          "interface": "Wireless",
+          "switch": "",
+          "layout": "",
+          "dimension": "2.05 x 43.5 x 13.75 cm.",
+          "support": "Windows 7, Windows 8, Windows 10 or laterAndroid 5.0Mac OS X 10.1"
+        }
+      }
+    ]
+  },
+  {
+    "model": "bluetoothcompactkeyboarddesigner",
+    "name": "MICROSOFT BLUETOOTH COMPACT KEYBOARD DESIGNER",
+    "store": "Banana",
+    "brand": "Microsoft",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "MICROSOFT BLUETOOTH COMPACT KEYBOARD DESIGNER BLACK (TH/EN)",
+        "price": 2150,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/keyboard-and-numpad/microsoft-bluetooth-compact-keyboard-designer-black-then-889842668469_zg8xv5",
+        "image": "https://media-cdn.bnn.in.th/107190/Microsoft-Bluetooth-Compact-Keyboard-Designer-Black-TH-EN-5-square_medium.jpg",
+        "spec": {
+          "interface": "Bluetooth",
+          "switch": "",
+          "layout": "",
+          "dimension": "284.07 x 110.77 x 9.05 mm",
+          "support": "Microsoft Windows 10 / 8.1"
+        }
+      }
+    ]
+  },
+  {
+    "model": "bluetoothcompactkeyboarddesigner",
+    "name": "MICROSOFT BLUETOOTH COMPACT KEYBOARD DESIGNER",
+    "store": "Banana",
+    "brand": "Microsoft",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "MICROSOFT BLUETOOTH COMPACT KEYBOARD DESIGNER GLACIER (TH/EN)",
+        "price": 2150,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/keyboard-and-numpad/microsoft-bluetooth-compact-keyboard-designer-glacier-then-889842668742_z97wv9",
+        "image": "https://media-cdn.bnn.in.th/107195/Microsoft-Bluetooth-Compact-Keyboard-Designer-Glacier-THEN-5-square_medium.jpg",
+        "spec": {
+          "interface": "Bluetooth",
+          "switch": "",
+          "layout": "",
+          "dimension": "284.07 x 110.77 x 9.05 mm",
+          "support": "Microsoft Windows 10 / 8.1"
+        }
+      }
+    ]
+  },
+  {
+    "model": "microsoftbluetoothkeyboard",
+    "name": "MICROSOFT BLUETOOTH KEYBOARD",
+    "store": "Banana",
+    "brand": "Microsoft",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "MICROSOFT BLUETOOTH KEYBOARD BLACK (TH/EN)",
+        "price": 1690,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/keyboard-and-numpad/microsoft-bluetooth-keyboard-black-then-889842525533_d223q3",
+        "image": "https://media-cdn.bnn.in.th/91742/Microsoft-Bluetooth-Keyboard-Black-5-square_medium.jpg",
+        "spec": {
+          "interface": "Bluetooth Low Energy compatible with BT 4.x / 5.0",
+          "switch": "",
+          "layout": "",
+          "dimension": "12.37 x 43.49 x 1.9 cm.",
+          "support": "Windows 10/8.1 Bluetooth 4.0 or higher"
+        }
+      }
+    ]
+  },
+  {
+    "model": "microsoftbluetoothnumpad",
+    "name": "MICROSOFT BLUETOOTH NUMPAD",
+    "store": "Banana",
+    "brand": "Microsoft",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "MICROSOFT BLUETOOTH NUMPAD BLACK",
+        "price": 990,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/keyboard-and-numpad/microsoft-bluetooth-numpad-black-889842678949_r62xqg",
+        "image": "https://media-cdn.bnn.in.th/107210/Microsoft-Bluetooth-Numpad-Black-3-square_medium.jpg",
+        "spec": {
+          "interface": "Bluetooth",
+          "switch": "",
+          "layout": "",
+          "dimension": "81.8 x 110.77 X 9.05 mm",
+          "support": "Microsoft Windows 10 / 8.1"
+        }
+      }
+    ]
+  },
+  {
+    "model": "microsoftbluetoothnumpad",
+    "name": "MICROSOFT BLUETOOTH NUMPAD",
+    "store": "Banana",
+    "brand": "Microsoft",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "MICROSOFT BLUETOOTH NUMPAD GLACIER",
+        "price": 990,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/keyboard-and-numpad/microsoft-bluetooth-numpad-glacier-889842679090_rq8o6v",
+        "image": "https://media-cdn.bnn.in.th/107211/Microsoft-Bluetooth-Numpad-Glacier-1-square_medium.jpg",
+        "spec": {
+          "interface": "Bluetooth",
+          "switch": "",
+          "layout": "",
+          "dimension": "8.18 x 11.077 X 9.5 cm.",
+          "support": "Microsoft Windows 10 / 8.1"
+        }
+      }
+    ]
+  },
+  {
+    "model": "surfacego",
+    "name": "MICROSOFT SURFACE GO TYPE COVER N SC BLACK REFRESH",
+    "store": "Banana",
+    "brand": "Microsoft",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "MICROSOFT SURFACE GO TYPE COVER N SC BLACK REFRESH",
+        "price": 3790,
+        "href": "https://www.bnn.in.th/th/p/tablet-and-accessories/tablet-accessories/surface-accesories-tablet-accessories/microsoft-surface-go-type-cover-n-sc-black-refresh-889842590807_zwl0vg",
+        "image": "https://media-cdn.bnn.in.th/91809/Microsoft-Surface-Go-Type-Cover-NSC-Black-Refresh-1-square_medium.jpg",
+        "spec": {
+          "interface": "N/A",
+          "switch": "",
+          "layout": "",
+          "dimension": "24.8 x 0.4 x 19 cm.",
+          "support": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "surfacego",
+    "name": "MICROSOFT SURFACE GO TYPE COVER N SC BLACK REFRESH",
+    "store": "Banana",
+    "brand": "Microsoft",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "MICROSOFT SURFACE GO TYPE COVER N SC CHARCOAL",
+        "price": 4890,
+        "href": "https://www.bnn.in.th/th/p/tablet-and-accessories/tablet-accessories/surface-accesories-tablet-accessories/microsoft-surface-go-type-cover-n-sc-charcoal-889842582147_d51ej2",
+        "image": "https://media-cdn.bnn.in.th/91807/Microsoft-Surface-Go-Type-Cover-NSC-Charcoal-1-square_medium.jpg",
+        "spec": {
+          "interface": "Charcoal",
+          "switch": "",
+          "layout": "",
+          "dimension": "0.245 kg.",
+          "support": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "surfacego",
+    "name": "MICROSOFT SURFACE GO TYPE COVER N SC BLACK REFRESH",
+    "store": "Banana",
+    "brand": "Microsoft",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "MICROSOFT SURFACE GO TYPE COVER N SC THAILAND HDWR ICE BLUE",
+        "price": 4890,
+        "href": "https://www.bnn.in.th/th/p/tablet-and-accessories/tablet-accessories/surface-accesories-tablet-accessories/microsoft-surface-go-type-cover-n-sc-thailand-hdwr-ice-blue-889842581959_zjg6q5",
+        "image": "https://media-cdn.bnn.in.th/91804/Microsoft-Surface-Go-Type-Cover-NSC-Thailand-Hdwr-Ice-Blue-1-square_medium.jpg",
+        "spec": {
+          "interface": "N/A",
+          "switch": "",
+          "layout": "",
+          "dimension": "24.8 x 0.4 x 19 cm.",
+          "support": ""
+        }
+      }
+    ]
+  },
+  null,
+  {
+    "model": "tabletacc",
+    "name": "MICROSOFT TABLET ACC GO TYPE COVER COLORS N SC",
+    "store": "Banana",
+    "brand": "Microsoft",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "MICROSOFT TABLET ACC SIGNA TYPE COVER M1725 BLACK (FMM-00016)",
+        "price": 5390,
+        "href": "https://www.bnn.in.th/th/p/tablet-and-accessories/tablet-accessories/surface-accesories-tablet-accessories/microsoft-tablet-acc-signa-type-cover-m1725-black-fmm-00016-889842200836_d51epj",
+        "image": "https://media-cdn.bnn.in.th/91232/889842200836-1-square_medium.jpg",
+        "spec": {
+          "interface": "Magnetic",
+          "switch": "",
+          "layout": "",
+          "dimension": "29.5 x 21.7 x 0.5 cm.",
+          "support": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "tabletacc",
+    "name": "MICROSOFT TABLET ACC GO TYPE COVER COLORS N SC",
+    "store": "Banana",
+    "brand": "Microsoft",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "MICROSOFT TABLET ACC SIGNA TYPE COVER M1725 CHARCOAL (FFP-00156)",
+        "price": 7190,
+        "href": "https://www.bnn.in.th/th/p/tablet-and-accessories/tablet-accessories/surface-accesories-tablet-accessories/microsoft-tablet-acc-signa-type-cover-m1725-charcoal-ffp-00156-889842529272_rq8xg2",
+        "image": "https://media-cdn.bnn.in.th/91762/889842529272-01-square_medium.jpg",
+        "spec": {
+          "interface": "Magnetic",
+          "switch": "",
+          "layout": "",
+          "dimension": "29.5 x 21.7 x 0.5 cm.",
+          "support": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "tabletacc",
+    "name": "MICROSOFT TABLET ACC GO TYPE COVER COLORS N SC",
+    "store": "Banana",
+    "brand": "Microsoft",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "MICROSOFT TABLET ACC SIGNA TYPE COVER M1725 POPPY RED (FFP-00116)",
+        "price": 7190,
+        "href": "https://www.bnn.in.th/th/p/tablet-and-accessories/tablet-accessories/surface-accesories-tablet-accessories/microsoft-tablet-acc-signa-type-cover-m1725-poppy-red-ffp-00116-889842521177_z781e6",
+        "image": "https://media-cdn.bnn.in.th/91726/889842521177-01-square_medium.jpg",
+        "spec": {
+          "interface": "Magnetic",
+          "switch": "",
+          "layout": "",
+          "dimension": "29.5 x 21.7 x 0.5 cm.",
+          "support": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "wirelesskeyboardallinonemedia",
+    "name": "MICROSOFT WIRELESS KEYBOARD ALL-IN-ONE MEDIA",
+    "store": "Banana",
+    "brand": "Microsoft",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "MICROSOFT WIRELESS KEYBOARD ALL-IN-ONE MEDIA (TH/EN)",
+        "price": 1390,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/keyboard-and-numpad/microsoft-wireless-keyboard-all-in-one-media-then-885370738117_dko3kj",
+        "image": "https://media-cdn.bnn.in.th/79809/88537073811-0003-square_medium.jpg",
+        "spec": {
+          "interface": "USB Compatible",
+          "switch": "",
+          "layout": "",
+          "dimension": "36.7 x 13.2 x 2.1 cm.",
+          "support": "Microsoft Windows 8,8.1 /Windows RT 8, 8.1 / Windows 7 / Macintosh OSX v10.7-10.9 / Android 4.03, 4.12, and 4.2"
+        }
+      }
+    ]
+  },
+  {
+    "model": "waffle",
+    "name": "MOFII BLUETOOTH KEYBOARD WAFFLE",
+    "store": "Banana",
+    "brand": "Mofii",
+    "category": "Keyboard",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "MOFII BLUETOOTH KEYBOARD WAFFLE GREY (TH/EN)",
+        "price": 790,
+        "href": "https://www.bnn.in.th/th/p/it-accessories/mouse-and-keyboards/keyboard-and-numpad/mofii-bluetooth-keyboard-waffle-grey-then-6950125748315_dlp5pz",
+        "image": "https://media-cdn.bnn.in.th/102607/MOFii-Waffle-Bluetooth-Keyboard-Grey-6-square_medium.jpg",
+        "spec": {
+          "interface": "Bluetooth",
+          "switch": "",
+          "layout": "",
+          "dimension": "320 x 137 x 32 mm.",
+          "support": "Windows 2000, Windows xp. Windows ME. Windows VISTA, Windows 7/8/10"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+[
+ 'https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/hyper-x-gaming-microphone-solocast-usb-740617301663_zoo00z',
+ 'https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/nubwo-streaming-microphone-condenser-m-66-black-791411133004_d5jvxr',
+ 'https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/nubwo-streaming-microphone-lavalier-m-14-791421131403_r069mr',
+ 'https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/nubwo-streaming-microphone-m-21-goldblack-791423132101_zp74pz',
+ 'https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/nubwo-streaming-microphone-x500-vader-791414245001_dny2er',
+ 'https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/signo-condenser-microphone-maxxon-mp-705-black-6830295531262_dy65w2',
+ 'https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/signo-gaming-acc-condenser-microphone-mp-701-black-6720395493266_dmvexd',
+ 'https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/signo-gaming-acc-condenser-microphone-mp-704-black-6703124825644_d8o4qz',
+ 'https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/signo-gaming-desktop-microphone-mp-702-black-6771840306846_z3xn6z']

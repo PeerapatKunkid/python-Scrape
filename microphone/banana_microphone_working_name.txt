@@ -1,0 +1,7 @@
+['Anitech Microphone MC01-Black',
+ 'AVerMedia USB Microphone AM310',
+ 'Saramonic Blink500 Pro B1',
+ 'Saramonic Blink500 Pro B3',
+ 'Saramonic Microphone LavMicro U1A',
+ 'Saramonic Microphone SR-LMX1+',
+ 'Saramonic SmartMic MTV550']

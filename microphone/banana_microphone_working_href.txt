@@ -1,0 +1,7 @@
+['https://www.bnn.in.th/th/p/gaming-gear/game-streaming/anitech-microphone-mc01-black-8859221707821_r02qey',
+ 'https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/avermedia-usb-microphone-am310-4710710678142_zonl7d',
+ 'https://www.bnn.in.th/th/p/gaming-gear/game-streaming/saramonic-blink500-pro-b1-6971008027563_ze0oey',
+ 'https://www.bnn.in.th/th/p/gaming-gear/game-streaming/saramonic-blink500-pro-b3-6971008027877_rq83jv',
+ 'https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/saramonic-microphone-lavmicro-u1a-6971008024425_d2x46z',
+ 'https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/saramonic-microphone-sr-lmx1-4897040889988_z3l79z',
+ 'https://www.bnn.in.th/th/p/gaming-gear/game-streaming/saramonic-smartmic-mtv550-6971008027471_zvlgnp']

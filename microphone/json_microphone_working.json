@@ -1,0 +1,156 @@
+[
+  {
+    "model": "mc01",
+    "name": "ANITECH MICROPHONE MC01",
+    "store": "Banana",
+    "brand": "Anitech",
+    "category": "Microphone",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "ANITECH MICROPHONE MC01-BLACK",
+        "price": 199,
+        "href": "https://www.bnn.in.th/th/p/gaming-gear/game-streaming/anitech-microphone-mc01-black-8859221707821_r02qey",
+        "image": "https://media-cdn.bnn.in.th/84350/8859221707821-1-square_medium.jpg",
+        "spec": {
+          "interface": "3.5 mm. headphone (PC, IOS devices and selected Android devices)",
+          "type_of": "",
+          "frequency": "Frequency Range: 20 - 16000 Hz",
+          "impedance": "N/A"
+        }
+      }
+    ]
+  },
+  {
+    "model": "am310",
+    "name": "AVERMEDIA USB MICROPHONE AM310",
+    "store": "Banana",
+    "brand": "Avermedia",
+    "category": "Microphone",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "AVERMEDIA USB MICROPHONE AM310",
+        "price": 3490,
+        "href": "https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/avermedia-usb-microphone-am310-4710710678142_zonl7d",
+        "image": "https://media-cdn.bnn.in.th/17934/AVerMedia-USB-6-square_medium.jpg",
+        "spec": {
+          "interface": "USB 2.0",
+          "type_of": "",
+          "frequency": "",
+          "impedance": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "b1",
+    "name": "SARAMONIC BLINK500 PRO B1",
+    "store": "Banana",
+    "brand": "Saramonic",
+    "category": "Microphone",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "SARAMONIC BLINK500 PRO B1",
+        "price": 6700,
+        "href": "https://www.bnn.in.th/th/p/gaming-gear/game-streaming/saramonic-blink500-pro-b1-6971008027563_ze0oey",
+        "image": "https://media-cdn.bnn.in.th/113626/Saramonic-Blink500-Pro-B1-5-square_medium.jpg",
+        "spec": {
+          "interface": "N/A",
+          "type_of": "",
+          "frequency": "50Hz-18KHz",
+          "impedance": "N/A"
+        }
+      }
+    ]
+  },
+  {
+    "model": "b3",
+    "name": "SARAMONIC BLINK500 PRO B3",
+    "store": "Banana",
+    "brand": "Saramonic",
+    "category": "Microphone",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "SARAMONIC BLINK500 PRO B3",
+        "price": 8900,
+        "href": "https://www.bnn.in.th/th/p/gaming-gear/game-streaming/saramonic-blink500-pro-b3-6971008027877_rq83jv",
+        "image": "https://media-cdn.bnn.in.th/115207/Saramonic-Blink500-Pro-B3-4-square_medium.jpg",
+        "spec": {
+          "interface": "",
+          "type_of": "",
+          "frequency": "",
+          "impedance": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "lavmicrou1a",
+    "name": "SARAMONIC MICROPHONE LAVMICRO U1A",
+    "store": "Banana",
+    "brand": "Saramonic",
+    "category": "Microphone",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "SARAMONIC MICROPHONE LAVMICRO U1A",
+        "price": 1050,
+        "href": "https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/saramonic-microphone-lavmicro-u1a-6971008024425_d2x46z",
+        "image": "https://media-cdn.bnn.in.th/104721/Saramonic-Microphone-LavMicro-U1A-2-square_medium.jpg",
+        "spec": {
+          "interface": "",
+          "type_of": "",
+          "frequency": "",
+          "impedance": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "srlmx1+",
+    "name": "SARAMONIC MICROPHONE SR-LMX1+",
+    "store": "Banana",
+    "brand": "Saramonic",
+    "category": "Microphone",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "SARAMONIC MICROPHONE SR-LMX1+",
+        "price": 1550,
+        "href": "https://www.bnn.in.th/th/p/gaming-gear/game-streaming/microphone-1/saramonic-microphone-sr-lmx1-4897040889988_z3l79z",
+        "image": "https://media-cdn.bnn.in.th/36728/4897040889988-5-square_medium.jpg",
+        "spec": {
+          "interface": "",
+          "type_of": "",
+          "frequency": "",
+          "impedance": ""
+        }
+      }
+    ]
+  },
+  {
+    "model": "mtv550",
+    "name": "SARAMONIC SMARTMIC MTV550",
+    "store": "Banana",
+    "brand": "Saramonic",
+    "category": "Microphone",
+    "tag": "Working",
+    "data": [
+      {
+        "name": "SARAMONIC SMARTMIC MTV550",
+        "price": 4590,
+        "href": "https://www.bnn.in.th/th/p/gaming-gear/game-streaming/saramonic-smartmic-mtv550-6971008027471_zvlgnp",
+        "image": "https://media-cdn.bnn.in.th/113616/Saramonic-SmartMic-MTV550-6-square_medium.jpg",
+        "spec": {
+          "interface": "N/A",
+          "type_of": "",
+          "frequency": "20-20kHz",
+          "impedance": "N/A"
+        }
+      }
+    ]
+  }
+]

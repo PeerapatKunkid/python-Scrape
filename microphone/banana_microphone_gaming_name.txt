@@ -1,0 +1,9 @@
+['Hyper X Gaming Microphone Solocast USB',
+ 'Nubwo Streaming Microphone Condenser M-66 Black',
+ 'Nubwo Streaming Microphone Lavalier M-14',
+ 'Nubwo Streaming Microphone M-21 Gold/Black',
+ 'Nubwo Streaming Microphone X500 Vader',
+ 'Signo Condenser Microphone Maxxon MP-705 Black',
+ 'Signo Gaming Acc Condenser Microphone MP-701 Black',
+ 'Signo Gaming Acc Condenser Microphone MP-704 Black',
+ 'Signo Gaming Desktop Microphone MP-702 Black']
